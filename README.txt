@@ -13,4 +13,4 @@ This script is designed for x64, I am not liable for any failures caused on x86 
 (Stole from GPT, lmao)
 
 
-Enjoy the script! Share it as you like, but PLEASE keep it safe and don’t make it malicious (Or I will find you..).
+Enjoy the script! Share it as you like, but PLEASE keep it safe and don’t make it malicious (Or I will find you..)
