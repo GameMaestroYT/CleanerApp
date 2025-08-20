@@ -1,4 +1,4 @@
-🧹 CleanerApp
+🧹 DiskTrim
 
 A lightweight Python-based script that removes unnecessary extra junk files, and cleans up space (Up to 10GB+).
 Created with the help of ChatGPT and refined by yours truly.
@@ -19,3 +19,4 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 See the LICENSE file for details.
 
 Python installers and related files belong to the Python Software Foundation (PSF). I do not own permissions for Python itself.
+
