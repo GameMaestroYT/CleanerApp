@@ -25,4 +25,5 @@ See the LICENSE file for details.
 - License for Winpython - https://github.com/winpython/winpython/blob/master/LICENSE
 - License for Python Installers - https://docs.python.org/3/license.html
 
+- This project may get cancelled soon, I really don't see anyone using it, and honestly I don't wanna develop something that will never grow.
 
