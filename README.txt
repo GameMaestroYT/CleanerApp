@@ -11,7 +11,7 @@ Created with the help of ChatGPT and refined by yours truly.
 
 - Extract and run — you’re good to go!
 
-⚠️ Every update is either a bug fix or a new idea suggested by the community in the Issues/Discussions page.
+⚠️ Every update is important, and adds new features or major changes!
 
 📜 License & Credits
 
@@ -20,10 +20,8 @@ See the LICENSE file for details.
 
 - Python installers and related files belong to the Python Software Foundation (PSF). I do not own permissions for Python itself.
 
-- Any bundled Python is credited to https://github.com/winpython/winpython, as they are the original creator of the bundles, any version before V1.2 would be using Python installers from the Python Software Foundation (PSF). This and any and all prestated apps, files, or zips are NOT owned by me and is NOT covered by my License, rather theirs. 
-
-- License for Winpython - https://github.com/winpython/winpython/blob/master/LICENSE
-- License for Python Installers - https://docs.python.org/3/license.html
+License for Python Installers - https://docs.python.org/3/license.html
 
 - DiskTrim is on pause, if interest grows or inspiration returns, I may make more updates and undo the pause. It's currently in an as is stance. Sorry folks 😔
+
 
