@@ -9,7 +9,7 @@ Created with the help of ChatGPT and refined by yours truly.
 
 - Download the latest (or any) .zip file.
 
-- Extract and run — you’re good to go!
+- Extract and run & you’re good to go!
 
 ⚠️ Every update is important, and adds new features or major changes!
 
@@ -23,5 +23,6 @@ See the LICENSE file for details.
 License for Python Installers - https://docs.python.org/3/license.html
 
 - DiskTrim is on pause, if interest grows or inspiration returns, I may make more updates and undo the pause. It's currently in an as is stance. Sorry folks 😔
+
 
 
